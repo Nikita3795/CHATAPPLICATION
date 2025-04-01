@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
@@ -59,3 +60,15 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 # CHAT-APPLICATION
 # CHAT-APPLICATION
+=======
+# CHAT-APPLICATION
+*COMPANY NAME*: CODTECH IT SOLUTIONS
+*NAME*: NIKITA PAWAR
+*INTERN ID*: CT04WL83
+*DOMAIN NAME*: FULL STACK WEB DEVELOPMENT
+*DURATION*:4 WEEKS
+*MENTOR*: NEELA SANTOSH
+
+>>>>>>> 0b7b5f42a685df3d1a50ff789eec9d52d396805c
+# ChatApplication
+# ChatApplication
